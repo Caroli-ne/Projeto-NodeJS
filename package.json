@@ -1,0 +1,19 @@
+{
+  "name": "projeto-individual-4",
+  "version": "1.0.0",
+  "description": "Ferramenta de ordenação em JS",
+  "main": "app.js",
+  "scripts": {
+  "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caroli-ne/Projeto-NodeJS.git"
+  },
+  "author": "Caroli-ne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Caroli-ne/Projeto-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Caroli-ne/Projeto-NodeJS#readme"
+}
