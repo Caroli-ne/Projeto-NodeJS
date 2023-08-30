@@ -11,6 +11,7 @@ function listaOrdenada () {
             console.log (item)
         })
     }else{
+        lista.push(entrada.toLowerCase())
         listaOrdenada()
     }
 }
