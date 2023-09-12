@@ -13,7 +13,9 @@
   "author": "Caroli-ne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Caroli-ne/Projeto-NodeJS/issues"
+    "url": "https://github.com/Caroli-ne/Projeto-NodeJS/issues",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
   },
   "homepage": "https://github.com/Caroli-ne/Projeto-NodeJS#readme"
 }
