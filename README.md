@@ -15,3 +15,25 @@ Neste projeto, que é a quarta atividade individual do curso de Desenvolvimento 
 
 # Rodando o projeto localmente
 
+Antes de iniciar, é importante certificar-se de ter o NodeJS instalado no sistema. Você pode instalá-lo no link abaixo:
+
+ - [Download - NodeJS](https://nodejs.org/pt-br/download)
+
+***Primeiro, clone o projeto***
+- Com chave HTTPS:
+  
+```bash
+  git clone https://github.com/Caroli-ne/Projeto-NodeJS.git
+```
+***Entre no diretório do projeto***
+
+***Instale as dependências***
+```bash
+   npm install
+```
+***Inicie o servidor***
+```bash
+   npm start
+```
+
+#### Após esses passos, você já pode aproveitar o projeto!
